@@ -1,0 +1,11 @@
+[package]
+name = "cogn"
+version = "0.0.1"
+authors = ["Hatim Thayyil <hatim@thayyil.net>"]
+edition = "2021"
+description = "Cogn"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
